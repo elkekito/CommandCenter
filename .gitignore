@@ -16,7 +16,6 @@ Backup/
 .claude/
 .gitattributes
 CLAUDE.md
-README.md
 CHANGELOG.md
 handoff.md
 tecdoc.md
